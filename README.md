@@ -14,8 +14,8 @@
 
 ### About Me :
 
-Hi! 🙋‍♂️ My name is Conlyn and I am a software engineer and transfer student pursuing my BS in computer science at California State University - Monterey Bay. My passion for CS has allowed me to not only gain software engineering internship experience but also contribute educational impact for my peers and CS program. I enjoy continuously pursuing new challenges and am looking forward to creating industry-leading software solutions.  
-- 📚 Expected graduation of spring 2024
+Hi! 🙋‍♂️ My name is Conlyn and I am a software engineer and recent graduate with a BS in computer science from California State University - Monterey Bay. My passion for CS has allowed me to not only gain software engineering internship experience but also contribute educational impact for my peers and CS program. I enjoy continuously pursuing new challenges and am looking forward to creating industry-leading software solutions.  
+- 📚 Recent CSUMB CS graduate
 - 👨‍💻 Searching for new grad 2024 software engineering role
 - 🤝 Demonstrated leadership and communication skills in and beyond technical industry
 - 🎯 Interested in full-stack and backend development
