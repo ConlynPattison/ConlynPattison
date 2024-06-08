@@ -14,11 +14,9 @@
 
 ### About Me :
 
-Hi! 🙋‍♂️ My name is Conlyn and I am a software engineer and recent graduate with a BS in computer science from California State University - Monterey Bay. My passion for CS has allowed me to not only gain software engineering internship experience but also contribute educational impact for my peers and CS program. I enjoy continuously pursuing new challenges and am looking forward to creating industry-leading software solutions.  
-- 📚 Recent CSUMB CS graduate
-- 👨‍💻 Searching for new grad 2024 software engineering role
-- 🤝 Demonstrated leadership and communication skills in and beyond technical industry
-- 🎯 Interested in full-stack and backend development
+Hello! My name is Conlyn and I am a software engineer and recent graduate with a BS in computer science from California State University - Monterey Bay. My passion for CS has allowed me to not only gain software engineering internship experience but also contribute educational impact for my peers and CS program. I enjoy continuously pursuing new challenges and am looking forward to creating industry-leading software solutions.  
+- 📚 CSUMB Computer Science graduate, cum laude
+- 👨‍💻 Searching for full-stack and backend software engineer roles
 
 <div align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
